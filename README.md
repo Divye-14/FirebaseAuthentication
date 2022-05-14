@@ -11,3 +11,13 @@
 
 4- After the signin activity, user can move towards the DrawerLayout actitvity. 
 
+
+
+<img src = "https://user-images.githubusercontent.com/69538996/168421554-a311a6af-1ae7-41bc-883e-48e67870521a.jpeg" width="200" height="350">
+
+
+<img src = "https://user-images.githubusercontent.com/69538996/168421558-4fba1510-df49-48b1-93cb-5cc017fa1f5e.jpeg" width="200" height="350">
+
+![DrawerLayout1](https://user-images.githubusercontent.com/69538996/168421554-a311a6af-1ae7-41bc-883e-48e67870521a.jpeg)
+![DrawerLayout2](https://user-images.githubusercontent.com/69538996/168421558-4fba1510-df49-48b1-93cb-5cc017fa1f5e.jpeg)
+
