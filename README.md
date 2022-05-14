@@ -1,6 +1,8 @@
 # FirebaseAuthentication
-1- Used MVVM architecture. 
+1- Used MVVM architecture.
+
 2- Created FirebaseAuthetication application with Activities.
+
 3- Used some animations while moving one activity to another activity.
 
 
