@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522786595468",
+    "project_id": "poc-android-16649",
+    "storage_bucket": "poc-android-16649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522786595468:android:d197aedfa3516cc37d11a9",
+        "android_client_info": {
+          "package_name": "com.example.pocandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522786595468-vruvguko6l476qb472j73lpkn6uk0o4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamC0T8y-zXYjpKTXpo9W4DevlX8-ZQJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522786595468-vruvguko6l476qb472j73lpkn6uk0o4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

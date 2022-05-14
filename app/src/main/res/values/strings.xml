@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">POC Android</string>
+    <string name="hi_divyang">Hi Divyang!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="check_crashlytics">Check Crashlytics</string>
+    <string name="this_is_drawer_layout">THIS IS DRAWER LAYOUT</string>
+    <string name="username">Username</string>
+    <string name="signin">SignIn</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="signup">SignUp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>

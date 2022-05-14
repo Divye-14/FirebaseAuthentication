@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/home1">
+
+    <activity
+        android:id="@+id/home1"
+        android:name="com.example.pocandroid.views.Home"
+        android:label="activity_home"
+        tools:layout="@layout/activity_home" />
+    <activity
+        android:id="@+id/settings"
+        android:name="com.example.pocandroid.views.Settings"
+        android:label="activity_settings"
+        tools:layout="@layout/activity_settings" />
+    <activity
+        android:id="@+id/logout"
+        android:name="com.example.pocandroid.views.Logout"
+        android:label="activity_logout"
+        tools:layout="@layout/activity_logout" />
+</navigation>
