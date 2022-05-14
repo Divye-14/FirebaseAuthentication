@@ -1,2 +1,2 @@
 # FirebaseAuthentication
-![image](https://user-images.githubusercontent.com/69538996/168417633-c60d3f77-6849-422b-b57d-9ec4862dee4c.png | width=100)
+![SignUp](https://user-images.githubusercontent.com/69538996/168417683-6f1a9195-567f-4b47-8757-ba2830a95d05.jpeg | width=100)
